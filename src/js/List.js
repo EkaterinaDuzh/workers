@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import ItemEl from "./ItemEl.js";
 import DownloadInterface from "./DownloadInterface.js";
 
